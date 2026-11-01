@@ -1,0 +1,1 @@
+Place optional test PDFs in this folder for your own reference. Upload PDFs through the application; uploaded documents are held in memory and are not automatically committed to GitHub.
